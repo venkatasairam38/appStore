@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.appImg {
+  height: 100px;
+  width: 100px;
+}
+.appList {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 12px;
+  background-color: #ffffff;
+  margin: 5px;
+}
